@@ -1,0 +1,26 @@
+funes_assignment5:
+total 428
+-rw-r--r-- 1 ugrad    811 Apr 19 18:34 heapSort.cpp
+-rw-r--r-- 1 ugrad    158 Apr 19 18:39 heapSort.h
+-rw-r--r-- 1 ugrad  16128 Apr 19 18:52 heapSort.o
+-rwxr-xr-x 1 ugrad 105549 Apr 19 19:07 main
+-rw-r--r-- 1 ugrad   1682 Apr 19 19:07 main.cpp
+-rw-r--r-- 1 ugrad    894 Apr 19 18:44 makefile
+-rw-r--r-- 1 ugrad   1063 Apr 19 18:52 mergeSort.cpp
+-rw-r--r-- 1 ugrad    164 Apr 19 18:39 mergeSort.h
+-rw-r--r-- 1 ugrad   4896 Apr 19 18:52 mergeSort.o
+-rw-r--r-- 1 ugrad  48890 Apr 19 16:44 ordered.txt
+-rw-r--r-- 1 ugrad    702 Apr 19 18:51 quickSort.cpp
+-rw-r--r-- 1 ugrad    170 Apr 19 18:51 quickSort.h
+-rw-r--r-- 1 ugrad  16904 Apr 19 18:51 quickSort.o
+-rw-r--r-- 1 ugrad    966 Apr 19 18:53 randomizedQuickSort.cpp
+-rw-r--r-- 1 ugrad    245 Apr 19 18:53 randomizedQuickSort.h
+-rw-r--r-- 1 ugrad  41128 Apr 19 18:53 randomizedQuickSort.o
+-rw-r--r-- 1 ugrad  48890 Apr 19 16:44 random.txt
+-rw-r--r-- 1 ugrad    288 Apr 19 19:10 README.txt
+-rw-r--r-- 1 ugrad      0 Apr 19 19:15 rec32291
+-rw-r--r-- 1 ugrad  48890 Apr 19 16:44 reverse.txt
+-rw-r--r-- 1 ugrad    424 Apr 19 18:51 selectionSort.cpp
+-rw-r--r-- 1 ugrad    131 Apr 19 18:51 selectionSort.h
+-rw-r--r-- 1 ugrad  36872 Apr 19 18:51 selectionSort.o
+/home/ugrads/funes/funes_assignment5:/home/work/cs2720c
