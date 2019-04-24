@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
     int n, arr[10000];
     filename= argv[1];
 
-    
+    //ifstream inFile("random.txt");
     ifstream inFile(filename);
 
     if(!inFile)
@@ -40,7 +40,7 @@ int main(int argc, char *argv[])
     cout<<"3.Sort using Quick Sort(Last Pivot).\n";
     cout<<"4.Sort using Quick Sort(Random pivot).\n";
     cout<<"5.Sort using Heap Sort.\n";
-    cout<<"Enter your Option";
+    cout<<"Enter your Option: ";
     cin>>opt;
 
     int count = 0;
@@ -70,6 +70,5 @@ int main(int argc, char *argv[])
               cout << arr[i] << " ";
         cout << "\n";
         cout<<"Number of comparisons: "<<count;
-    cout <<"\n";
     return  0;
 }
